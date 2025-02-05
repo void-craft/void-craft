@@ -14,6 +14,6 @@ I'm a **Full-Stack Web Development** learner with a keen interest in **testing a
 
 ---
 
-📫 **Let's connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemaps)  
-📧 **Email:** [hemapriyaweb@gmail.com](mailto:hemapriyaweb@gmail.com)  
+📫 **Contact me at:**  
+**LinkedIn:** [https://www.linkedin.com/in/hemaps](https://www.linkedin.com/in/hemaps)  
+**Email:** [hemapriyaweb@gmail.com](mailto:hemapriyaweb@gmail.com)  
