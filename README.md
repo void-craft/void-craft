@@ -14,11 +14,6 @@ I'm a **Full-Stack Web Development** learner with a keen interest in **testing a
 
 ---
 
-🌱 **Currently Learning:**  
-![Full-Stack Web Development](https://img.shields.io/badge/Full--Stack_Development-6DB33F?style=for-the-badge&logo=web&logoColor=white)  
-
-🚀 Always eager to explore new technologies and improve my coding skills!  
-
 📫 **Let's connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemaps)  
 📧 **Email:** [hemapriyaweb@gmail.com](mailto:hemapriyaweb@gmail.com)  
