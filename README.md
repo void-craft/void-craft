@@ -1,6 +1,14 @@
-## Hello, This is Hema! 👋  
+## Hi, fellow humans! This is Hema :D
 
-I'm a **Full-Stack Web Development** learner with a keen interest in **testing and automation**. I enjoy building web and mobile applications, ensuring quality through rigorous testing, and exploring new technologies and coding.  
+I'm a QA Automation Engineer transitioning to **Full-Stack Web Development**.
+
+I enjoy building web and mobile applications, as well as exploring new technologies and coding. I also take pride in teaching - it has helped me see how every human being is capable in their own way and I apply my empathetic approach in every teaching moment possible - be it personal or professional.
+
+Values guide the human race to build a sustainable world and it is important for me that the company I work for has great values not just in writing, but in its applications as well.
+
+That's a little about me. Thanks for reading!
+
+Cheers!
 
 📍 **Based in:** Oviedo, Asturias, Spain  
 🛂 **Work Permit:** Yes  
@@ -14,6 +22,7 @@ I'm a **Full-Stack Web Development** learner with a keen interest in **testing a
 
 ---
 
-📫 **Contact me at:**  
+📫 **Contact**
+
 **LinkedIn:** [https://www.linkedin.com/in/hemaps](https://www.linkedin.com/in/hemaps)  
 **Email:** [hemapriyaweb@gmail.com](mailto:hemapriyaweb@gmail.com)  
