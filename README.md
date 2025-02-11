@@ -2,7 +2,7 @@
 
 I'm a QA Automation Engineer transitioning to **Full-Stack Web Development**.
 
-I enjoy building web and mobile applications, as well as exploring new technologies and coding. I also take pride in teaching - it has helped me see how every human being is capable in their own way and I apply my empathetic approach in every teaching moment possible - be it personal or professional.
+I enjoy building web and mobile applications, as well as exploring new technologies and coding. I also take pride in teaching - it has helped me see how every human being is capable and I apply my empathetic approach in every teaching moment possible - be it personal or professional.
 
 Values guide the human race to build a sustainable world and it is important for me that the company I work for has great values not just in writing, but in its applications as well.
 
