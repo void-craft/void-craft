@@ -1,4 +1,4 @@
-## Hi, fellow humans! This is Hema :D
+Hi, fellow humans! This is Hema :D
 
 I'm a Full Stack Developer with Salesforce, AWS & QA Automation background.
 
@@ -12,13 +12,9 @@ Cheers!
 
 ---
 
-📍 **Based in:** Asturias, Spain  
-🛂 **Work Permit:** Yes  
-🗣️ **Languages:** English | Spanish | Tamil  
-
+🛠️ Tech Stack
 ---
 
-## 🛠️ Tech Stack
 
 | Category                     | Technologies & Tools |
 |-----------------------------|-----------------------|
@@ -31,9 +27,8 @@ Cheers!
 | **Certifications in Progress** | Salesforce JavaScript Developer I, AWS Certified Cloud Practitioner |
 | **Methodologies**           | Agile, Scrum, Kanban |
 
+📫 Contact Me
 ---
-
-## 📫 Contact Me
 
 **LinkedIn:** [Hema P.](https://es.linkedin.com/in/hemaps)  
 **Email:** [hemapriyaweb@gmail.com](mailto:hemapriyaweb@gmail.com)
