@@ -22,4 +22,4 @@ Keeps going on until the results are delivered with high standards. Focused on m
 
 ## Contact
 * hemapriyaweb@gmail.com
-* LinkedIn: [linkedin.com/in/hemaps](https://es.linkedin.com/in/hemaps)
+* [linkedin.com/in/hemaps](https://es.linkedin.com/in/hemaps)
