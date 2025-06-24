@@ -8,7 +8,7 @@ Keeps going on until the results are delivered with high standards. Focused on m
 **Tools:** `BrowserStack` `Jira` `Radar`
 
 ## QA Automation & Testing  
-`pytest` `Jest` `Selenium` `Cypress` `Locust`  
+`pytest` `Jest` `Selenium` `Cypress` `Locust` `Postman`
 - Test Planning & Reporting  
 - Performance/Load Testing  
 - Bug Tracking & Triage  
